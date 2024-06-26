@@ -20,12 +20,13 @@ Jogo Snake
 
 Objetivo: Controlar a cobra e comer o máximo de alimentos possível sem colidir com as paredes ou consigo mesma.
 Como jogar: Use as setas do teclado para mover a cobra. Cada alimento coletado aumenta a pontuação e o tamanho da cobra.
+
 Como Executar
 Para executar o projeto, certifique-se de ter o Python instalado em sua máquina. Clone o repositório e execute o arquivo principal:
 
 git clone https://github.com/seu-usuario/compilado-de-jogos-python.git
 cd compilado-de-jogos-python
-python seu_arquivo_principal.py
+python compilado-de-jogos-python.py
 
 Tecnologias Utilizadas
 Python 3.x
